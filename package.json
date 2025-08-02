@@ -1,0 +1,19 @@
+{
+    "name": "cyber-attack-classification-system",
+    "version": "1.0.0",
+    "description": "CYBER ATTACK CLASSIFICATION SYSTEM @III ROBOTICS",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron": "^25.9.8"
+    },
+    "devDependencies": {
+        "electron-packager": "^17.1.2",
+        "eslint": "^9.12.0"
+    },
+    "author": "Sohail Kachhi @III ROBOTICS",
+    "license": "MIT",
+    "keywords": []
+}
